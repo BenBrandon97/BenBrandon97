@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben Brandon
+- 👋 Hi, I’m Ben Brandon; a frontend Web Developer.
 - 👀 I’m interested in knowing how software works and building them.
 - 🌱 I’m currently learning software engineering.
 - //💞️ I’m looking to collaborate on//
